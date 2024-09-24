@@ -6,6 +6,8 @@ Link: https://stackblitz-starters-ji8rtu.vercel.app/
 
 ## About the Project
 
+<img width="514" alt="image" src="https://github.com/user-attachments/assets/1dbd7900-d536-4089-853e-ff5ab5c483ed">
+
 FlipDeal is content with the APIs that you have built. What are the various actions a user has to take?
 
 Add all the 3 Products to the Cart.
