@@ -2,7 +2,7 @@
 
 **FlipDeal ECommerce App**
 
-Link: https://stackblitz-starters-ji8rtu.vercel.app/
+Link: https://flipdeal-backend.vercel.app/
 
 ## About the Project
 
